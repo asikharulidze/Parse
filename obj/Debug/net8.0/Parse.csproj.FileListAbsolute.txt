@@ -1,0 +1,14 @@
+C:\Users\a.sikharulidze\RiderProjects\Parse\bin\Debug\net8.0\Parse.exe
+C:\Users\a.sikharulidze\RiderProjects\Parse\bin\Debug\net8.0\Parse.deps.json
+C:\Users\a.sikharulidze\RiderProjects\Parse\bin\Debug\net8.0\Parse.runtimeconfig.json
+C:\Users\a.sikharulidze\RiderProjects\Parse\bin\Debug\net8.0\Parse.dll
+C:\Users\a.sikharulidze\RiderProjects\Parse\bin\Debug\net8.0\Parse.pdb
+C:\Users\a.sikharulidze\RiderProjects\Parse\obj\Debug\net8.0\Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.sikharulidze\RiderProjects\Parse\obj\Debug\net8.0\Parse.AssemblyInfoInputs.cache
+C:\Users\a.sikharulidze\RiderProjects\Parse\obj\Debug\net8.0\Parse.AssemblyInfo.cs
+C:\Users\a.sikharulidze\RiderProjects\Parse\obj\Debug\net8.0\Parse.csproj.CoreCompileInputs.cache
+C:\Users\a.sikharulidze\RiderProjects\Parse\obj\Debug\net8.0\Parse.dll
+C:\Users\a.sikharulidze\RiderProjects\Parse\obj\Debug\net8.0\refint\Parse.dll
+C:\Users\a.sikharulidze\RiderProjects\Parse\obj\Debug\net8.0\Parse.pdb
+C:\Users\a.sikharulidze\RiderProjects\Parse\obj\Debug\net8.0\Parse.genruntimeconfig.cache
+C:\Users\a.sikharulidze\RiderProjects\Parse\obj\Debug\net8.0\ref\Parse.dll
